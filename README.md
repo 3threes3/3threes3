@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **davidlorenzomorales@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
+- 📄 Know about my experiences [https://www.linkedin.com/feed/](https://www.linkedin.com/in/david-lorenzo/)
 
 - ⚡ Fun fact **I am way too deep into the rabbit hole of mechanical keyboards; ask me anything!**
 
