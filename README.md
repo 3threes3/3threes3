@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dfcodes" target="blank"><img src="https://img.shields.io/twitter/follow/dfcodes?logo=twitter&style=for-the-badge" alt="dfcodes" /></a> </p>
 
-- 🌱 I’m currently learning **Django and Flask**
+- 🌱 I’m currently learning **C# and .NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/3threes3/](https://github.com/3threes3/)
 
